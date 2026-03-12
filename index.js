@@ -9,8 +9,8 @@ const client = new Client({
     ]
 });
 
-// ⬇️ PUT YOUR TOKEN HERE
-client.login("MTQ4MTEyMzkyODQxMDk0NzczOA.GnqmQT.QtFQVMo0ECtnKN-YXL9cjansSWujcv_xLp5HmE");
+// bruh
+client.login(process.env.MTQ4MTEyMzkyODQxMDk0NzczOA.GngoBg.pYY8eKFYZpRlXtcRh8Abu6hE1zQ5ELyt8UZ2Cw);
 
 // 2. COLOR SYSTEM
 const userColors = new Map();
