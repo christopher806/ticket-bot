@@ -10,7 +10,7 @@ const client = new Client({
 });
 
 // bruh
-client.login(process.env.MTQ4MTEyMzkyODQxMDk0NzczOA.GngoBg.pYY8eKFYZpRlXtcRh8Abu6hE1zQ5ELyt8UZ2Cw);
+client.login(process.env.DISCORD_TOKEN);
 
 // 2. COLOR SYSTEM
 const userColors = new Map();
